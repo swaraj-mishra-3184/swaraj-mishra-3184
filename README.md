@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Swaraj Mishra</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
+- 🔭 I’m currently working on **Kotlin based Android Application**
+
+- 🌱 I’m currently learning **Android Development, Java Development**
+
+- 👨‍💻 All of my projects are available at [https://github.com/swaraj-mishra-22bcsb72](https://github.com/swaraj-mishra-22bcsb72)
+
+- 📫 How to reach me **mswaraj46@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/m_swaraj_46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m_swaraj_46" height="30" width="40" /></a>
